@@ -1,0 +1,18 @@
+hash: fb2b3f48edf249695102c5ff948ce50a516dee71c49a7fe19ad14b5c23777f25
+updated: 2017-07-16T23:04:48.370949922+08:00
+imports:
+- name: github.com/gokits/gotools
+  version: 07e64f9057e46ab5f785684b282d7683b19028a6
+- name: github.com/sirupsen/logrus
+  version: 51dc0fc64317a2861273909081f9c315786533eb
+- name: github.com/ugorji/go
+  version: 5efa3251c7f7d05e5d9704a69a984ec9f1386a40
+  subpackages:
+  - codec
+- name: github.com/YueHonghui/rfw
+  version: 2e82e6cf3dc91e683355d2942203768b5b552dad
+- name: golang.org/x/sys
+  version: e4594059fe4cde2daf423055a596c2cd1e6c9adf
+  subpackages:
+  - unix
+testImports: []

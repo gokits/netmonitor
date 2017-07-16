@@ -1,0 +1,8 @@
+package: github.com/gokits/netmonitor
+import:
+- package: github.com/YueHonghui/rfw
+- package: github.com/gokits/gotools
+- package: github.com/sirupsen/logrus
+- package: github.com/ugorji/go
+  subpackages:
+  - codec
